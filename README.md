@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web Devopement
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking for summer internships
-- 📫 Reach me @dopegamerrrr@gmail.com
+- 📫 Reach me @pj9536@bennett.edu.in
 
 <!---
 Paras-bennett/Paras-bennett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
