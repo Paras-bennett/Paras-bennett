@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paras Jain.
 - 👀 I’m interested in Full-Stack Web Devopement
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking for summer internships
+- � I’m looking for summer internships
 - 📫 Reach me @pj9536@bennett.edu.in
 
 <!---
