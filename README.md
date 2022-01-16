@@ -2,7 +2,7 @@
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Paras-bennett)](https://github.com/ryo-ma/github-profile-trophy)
 [![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-bennett)](https://github.com/Paras-bennett/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bennett)](https://github.com/Paras-bennett/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bennett&layout=compact)](https://github.com/Paras-bennett/github-readme-stats)
 - 👋 Hi, I’m Paras Jain.
 - 👀 I’m interested in Full-Stack Web Devopement
 - 🌱 I’m currently learning React.js
