@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?Paras-bennett=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m Paras Jain.
 - 👀 I’m interested in Full-Stack Web Devopement
 - 🌱 I’m currently learning React.js
