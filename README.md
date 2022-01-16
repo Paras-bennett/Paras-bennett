@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Paras-bennett)
+</br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Paras-bennett)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m Paras Jain.
