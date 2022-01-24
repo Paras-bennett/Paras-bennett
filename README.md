@@ -3,11 +3,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Paras-bennett)](https://github.com/ryo-ma/github-profile-trophy)
 [![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-bennett)](https://github.com/Paras-bennett/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bennett&layout=compact)](https://github.com/Paras-bennett/github-readme-stats)
-- 👋 Hi, I’m Paras Jain.
-- 👀 I’m interested in Full-Stack Web Devopement
-- 🌱 I’m currently learning React.js
-- � I’m looking for summer internships
-- 📫 Reach me @pj9536@bennett.edu.in
+- 👋 Hi, I’m Paras Jain!
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning React.js.
+- �  I’m looking for Software Developer Jobs
+- 📫 Reach me @parasj0808@gmail.com
 
 <!---
 Paras-bennett/Paras-bennett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
